@@ -1,0 +1,11 @@
+This is a sample WinForms embedded application for the Windows Mobile 6.5 Standard Device using .NET 2.0
+It utilizes the Motorola Symbol Enterprsie Mobility Development Kit (a.k.a Symbol SDK) version 2.4 and
+the the Symbol.RFID3.Device.DLL.
+
+The application will only work with a Motorola handheld MC9190-Z series. It will not work with the MC9090
+series that utilizes the older Symbol.RFID2.Device.DLL.
+
+When the sample is run it will open a form window with a a single read-only textbox input.
+The RFID Reader can then read tag IDs at the press and release of the handheld trigger.
+The RFID gun can read one tag at a time and the TagID value read is displayed on the textbox.
+
