@@ -1,0 +1,14 @@
+C:\MC9091z-HandheldTrigger-ReadTagProject\obj\Debug\ResolveAssemblyReference.cache
+C:\MC9091z-HandheldTrigger-ReadTagProject\obj\Debug\MC9091z_HandheldTrigger_ReadTagProject.Form1.resources
+C:\MC9091z-HandheldTrigger-ReadTagProject\obj\Debug\MC9091z_HandheldTrigger_ReadTagProject.Properties.Resources.resources
+C:\MC9091z-HandheldTrigger-ReadTagProject\obj\Debug\MC9091z-HandheldTrigger-ReadTagProject.csproj.GenerateResource.Cache
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\MC9091z-HandheldTrigger-ReadTagProject.exe
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\MC9091z-HandheldTrigger-ReadTagProject.pdb
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\Symbol.dll
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\Symbol.ResourceCoordination.dll
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\Symbol.RFID3.Device.dll
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\Symbol.RFID3.Device.xml
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\Symbol.ResourceCoordination.xml
+C:\MC9091z-HandheldTrigger-ReadTagProject\bin\Debug\Symbol.xml
+C:\MC9091z-HandheldTrigger-ReadTagProject\obj\Debug\MC9091z-HandheldTrigger-ReadTagProject.exe
+C:\MC9091z-HandheldTrigger-ReadTagProject\obj\Debug\MC9091z-HandheldTrigger-ReadTagProject.pdb
